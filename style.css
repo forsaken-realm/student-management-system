@@ -1,0 +1,18 @@
+ 
+
+ .newclass:hover{
+    background-color: black;
+ }
+
+ .computer-science{
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: row;
+     margin: 50px;
+ }
+
+ .computer-science-inside-div{
+    margin: 30px;
+    padding: 20px;
+
+ }
